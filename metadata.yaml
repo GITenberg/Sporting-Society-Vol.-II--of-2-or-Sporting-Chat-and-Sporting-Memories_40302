@@ -1,0 +1,36 @@
+_repo: Sporting-Society-Vol.-II--of-2-or-Sporting-Chat-and-Sporting-Memories_40302
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+covers:
+- cover_type: archival
+  image_path: 40302-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Russell, Fox
+    gutenberg_agent_id: '40540'
+    url: http://www.gutenberg.org/2009/agents/40540
+description: ''
+gutenberg_issued: '2012-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- Great Britain'
+- !lcsh 'Horse racing -- Great Britain'
+- !lcsh 'Fox hunting -- Great Britain'
+- !lcc 'SK'
+- !lcsh 'Fishing -- Great Britain'
+title: Sporting Society; or, Sporting Chat and Sporting Memories, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/40302
